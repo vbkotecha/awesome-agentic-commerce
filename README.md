@@ -3,6 +3,7 @@
 ![Merit Logo](./merit-logo-agentic-commerce.png)
 
 Curated resources for the x402 ecosystem: specs, repos, standards, and community. Contributions welcome via pull requests.
+- [AgentServices](https://agentservices.to) — Paid API platform for AI agents with 54 services, 97 endpoints, and 41 x402-paid paths. Crypto market data, stock prices, FX rates, news, LLM inference, and image generation. 37 MCP tools. USDC on Base.
 
 ### Quick Links
 - [Website](https://www.x402.org/)
